@@ -11,3 +11,5 @@ Jetzt tipp ich im Atom herum, was eigentlich genauso is wie im Browser
 aber noch echte tabs... juhu
 
 ist es jetzt gut?
+
+in diesem branch arbeite ich jetzt fleißig herum
